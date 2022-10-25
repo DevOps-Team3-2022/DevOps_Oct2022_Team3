@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello world
+=======
+This is hello from Syed Sharuk. I am adding a new line of
+code here
+>>>>>>> 6fca31573d5490b1fe050fec077923923653b619
